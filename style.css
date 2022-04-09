@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    font-family:"montserrat","san-serrif";
+    color: black;
+    background-color: #b882b4;;
+}  
+
+img{
+    width:200px;
+    height: 250px;;
+    margin-top:30px;
+}
+h1{
+    font-size:1.5em;
+    font-family:"Allura","cursive";
+    text-shadow:1px 1px;
+}
+p{
+    font: size 1.5em;
+    display: inline-block;
+    position:relative;
+    left:40%;
+    top:80%;
+    padding:0;
+}
